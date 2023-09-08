@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hungco8923/artbook/static/css/main.2a6a2db3.css",
-    "main.js": "/hungco8923/artbook/static/js/main.478adcab.js",
-    "static/js/787.c1112931.chunk.js": "/hungco8923/artbook/static/js/787.c1112931.chunk.js",
-    "static/media/Hero.mp4": "/hungco8923/artbook/static/media/Hero.6c6a1881e46f35edc740.mp4",
-    "index.html": "/hungco8923/artbook/index.html",
-    "main.2a6a2db3.css.map": "/hungco8923/artbook/static/css/main.2a6a2db3.css.map",
-    "main.478adcab.js.map": "/hungco8923/artbook/static/js/main.478adcab.js.map",
-    "787.c1112931.chunk.js.map": "/hungco8923/artbook/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/artbook/static/css/main.2a6a2db3.css",
+    "main.js": "/artbook/static/js/main.7699cd44.js",
+    "static/js/787.c1112931.chunk.js": "/artbook/static/js/787.c1112931.chunk.js",
+    "static/media/Hero.mp4": "/artbook/static/media/Hero.6c6a1881e46f35edc740.mp4",
+    "index.html": "/artbook/index.html",
+    "main.2a6a2db3.css.map": "/artbook/static/css/main.2a6a2db3.css.map",
+    "main.7699cd44.js.map": "/artbook/static/js/main.7699cd44.js.map",
+    "787.c1112931.chunk.js.map": "/artbook/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a6a2db3.css",
-    "static/js/main.478adcab.js"
+    "static/js/main.7699cd44.js"
   ]
 }
